@@ -112,13 +112,13 @@ function play(choice){
             flexDirection: 'row',
             },
           readyText : {
-            margin-top: -48,
+            marginTop: -48,
             alignSelf: 'center',
             textAlign: 'center',
             width: '100%',
-            frontSize: 48,
-            frontWeight: 'bold',
-            }
+            fontSize: 48,
+            fontWeight: 'bold',
+          }
 });
 
 
