@@ -1,17 +1,65 @@
-# React Native App
-
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+# React Native Rock Papper Scissors
 
 
-- [React & React Native](https://nativebase.io/)
-- [Builder X](https://builderx.io/)
-- [Expo](https://expo.dev/)
-- [Expo Snack](https://snack.expo.dev/)
+- Create an account at [Expo](https://expo.io)
+- Confirm login for [Snack](https://snack.expo.io)
+
+---
+
+### Local Development (Required)
+
+It is more powerful and flexible to have a local development environment. It is also a LOT more work than using online developer tools, especially on Windows.
+
+NOTE: The online/remote tools may be sufficient for your needs.
+
+Confirm the following
+
+`Install XCode (Mac Users)`
+`Install Android Studio (All Users)`
+`Install 1 device emulator`
+`Install expo-cli`
+`Create google play and apple developer accounts`
+
+---
+
+### First Phone App
+
+- What it does and how it looks is up to you. This is an opportunity to play around with whats possible in React Native and to get a feel for how you can get into the various device features.
+
+- This is a 2-session assignment, after which you will live-demo your phone app to the class (at the start of class 43)
+
+1. Lab/Coding Session #1 - Focus on getting your dev system up and operational, getting “proof of life” and reaching your MVP in terms of baseline functionality
+
+2. Lab/Coding Session #2 - Add in the device features, polish, and prepare for deployments.
+
+---
+
+### Pt1
+
+Use at least 1 native device feature (Contacts, Camera, GPS, etc)
+High Fidelity Styling and UX
+
+Good starting points:
+[Native Base](https://nativebase.io/)
+[Builder X](https://builderx.io/)
+
+Properly Documented for End Users
+Live Demo & Presentation
+
+---
+
+### Pt2
+
+- Use 2 screens / components
+- Use and share state between components/screens
+- Use at least 1 native device feature (Contacts, Camera, GPS, etc)
+- Properly Documented for End Users
+- Live Demo & Presentation
+- Milestone 2 - Product Delivery (This Lab)
+- As you complete your RNA, switch your focus to the user experience.
+
+- Quality and Thoughtful Styling using css-in-js
+- Right sized tap targets, good contrast
+- Dark and Light Modes
+- Well thought through UX
+- Be considerate of individuals that primarily use their thumbs, left or right hands
